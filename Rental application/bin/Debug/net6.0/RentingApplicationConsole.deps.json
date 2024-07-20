@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RentingApplicationConsole/1.0.0": {
+        "dependencies": {
+          "RentingApplicationLibrary": "1.0.0"
+        },
+        "runtime": {
+          "RentingApplicationConsole.dll": {}
+        }
+      },
+      "RentingApplicationLibrary/1.0.0": {
+        "runtime": {
+          "RentingApplicationLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RentingApplicationConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RentingApplicationLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
